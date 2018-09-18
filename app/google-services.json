@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "641744956887",
+    "firebase_url": "https://shoerecognitionapp.firebaseio.com",
+    "project_id": "shoerecognitionapp",
+    "storage_bucket": "shoerecognitionapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641744956887:android:e5067000853b6aeb",
+        "android_client_info": {
+          "package_name": "com.teamagace.shoerecgonitionapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "641744956887-rgsomtqkf66pntf41vp30b6l1a4i7roj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.teamagace.shoerecgonitionapp",
+            "certificate_hash": "3bc51bc1ce8b32c2b6316a8695c0f138332cb332"
+          }
+        },
+        {
+          "client_id": "641744956887-8kh4di0fmg74q6g01dp86g94enkrvr9g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGQIVTuQCKNmbFNg3q6xp3i6zRg7FrqU0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "641744956887-8kh4di0fmg74q6g01dp86g94enkrvr9g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
